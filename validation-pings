@@ -1,0 +1,69 @@
+C:\>ping 192.168.99.1
+
+Pinging 192.168.99.1 with 32 bytes of data:
+
+Reply from 192.168.99.1: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.1: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.1: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.1: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.99.1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+C:\>ping 192.168.99.2
+
+Pinging 192.168.99.2 with 32 bytes of data:
+
+Reply from 192.168.99.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.2: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.2: bytes=32 time=18ms TTL=255
+Reply from 192.168.99.2: bytes=32 time=13ms TTL=255
+
+Ping statistics for 192.168.99.2:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 18ms, Average = 7ms
+
+C:\>ping 192.168.99.3
+
+Pinging 192.168.99.3 with 32 bytes of data:
+
+Reply from 192.168.99.3: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.3: bytes=32 time=35ms TTL=255
+Reply from 192.168.99.3: bytes=32 time=16ms TTL=255
+Reply from 192.168.99.3: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.99.3:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 35ms, Average = 12ms
+
+C:\>ping 192.168.99.4
+
+Pinging 192.168.99.4 with 32 bytes of data:
+
+Reply from 192.168.99.4: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.4: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.4: bytes=32 time=19ms TTL=255
+Reply from 192.168.99.4: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.99.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 19ms, Average = 4ms
+
+C:\>ping 192.168.99.5
+
+Pinging 192.168.99.5 with 32 bytes of data:
+
+Reply from 192.168.99.5: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.5: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.5: bytes=32 time<1ms TTL=255
+Reply from 192.168.99.5: bytes=32 time<1ms TTL=255
+
+Ping statistics for 192.168.99.5:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
